@@ -1,16 +1,17 @@
-### Hi there 👋
+### 😄 Hi there 👋
 
-<!--
-**zoumiaojiang/zoumiaojiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm the team leader of the IES Front-end infra and TikTok @ByteDance.
 
-Here are some ideas to get you started:
+> I'm @Shanghai, Team @Everywhere
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👯 What are our team doing?
+
+- We are building a APM platform and tools system to monitor performance and user experience of web/hybrid products.
+- We are building a performance access platform to prevent performance degradation before project deploy.
+- We are building [TikTok WebApp](https://www.tiktok.com/foryou) and in-app product of TikTok.
+- and more cool stuffs ...
+
+### 📫 How to reach me?
+
+- Email: zoumiaojiang@gmail.com
+- wechat: zoumiaojiang
